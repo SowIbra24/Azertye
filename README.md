@@ -17,5 +17,5 @@ A tout moment, il peut passer d'un mode à l'autre.
 Il doit saisir ce que la fenêtre affiche et valider en cliquant soit sur la touche `Entrer` ou sur le bouton `valider` de la page du jeu.  
 Il peut aussi à tout moment partager son score en cliquant sur le bouton `partager` , il verra alors une popup avec un petit formulaire.  
 Une fois soumis, son client mail sera ouvert avec le mail deja préécrit et prêt à l'envoi.  
-Vous pouvez y jouer directement [ici](sowibra24.github.io/Azertype).  
+Vous pouvez y jouer directement [ici](https://sowibra24.github.io/Azertype/).  
 Vous pouvez aussi télécharger le repo sur votre machine locale et jouer avec votre navigateur web en local. Dans ce cas vous pourriez peut etre modifier les choses à votre convenance.  
